@@ -24,6 +24,8 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Hotwire](https://img.shields.io/badge/-Hotwire-black?style=flat-square&logo=hotwire)
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails)
 <!--
 **smic29/smic29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
