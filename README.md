@@ -2,6 +2,7 @@
 #### A Full-Stack Developer 
 
 - 🔭 I’m currently working on ...
+  - [Work](https://github.com/smicFC)
   - [Spicement](https://github.com/smic29/spicement) - A Ruby on Rails application for logistics professionals in the Philippines.
 - 🌱 I’m currently learning ...
   - AWS Cloud
