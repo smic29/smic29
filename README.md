@@ -5,7 +5,9 @@
   - [Work](https://github.com/smicFC)
   - [Spicement](https://github.com/smic29/spicement) - A Ruby on Rails application for logistics professionals in the Philippines.
 - 🌱 I’m currently learning ...
-  - AWS Cloud
+  - [x] AWS Cloud
+  - [ ] GraphQL
+  - [ ] Kotlin
 ##### 🔗 Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-icsibulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icsibulo/)](https://www.linkedin.com/in/icsibulo/)
 [![Gmail Badge](https://img.shields.io/badge/-sibulo1991@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sibulo1991@gmail.com)](mailto:sibulo1991@gmail.com)
