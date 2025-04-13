@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on ...
   - [Work](https://github.com/smicFC)
-  - [Spicement](https://github.com/smic29/spicement) - A Ruby on Rails application for logistics professionals in the Philippines.
+  - [Tools App]([https://github.com/smic29/spicement](https://github.com/smic29/tools-app)) - A Nextjs application that provides various useful office tools.
 - 🌱 I’m currently learning ...
-  - [x] AWS Cloud
-  - [ ] GraphQL
-  - [ ] Kotlin
+  - [ ] Azure Document Intelligence
+  - [ ] Building Kotlin-based applications
 ##### 🔗 Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-icsibulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icsibulo/)](https://www.linkedin.com/in/icsibulo/)
 [![Gmail Badge](https://img.shields.io/badge/-sibulo1991@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sibulo1991@gmail.com)](mailto:sibulo1991@gmail.com)
@@ -29,6 +28,9 @@
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
   ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 <!--
 **smic29/smic29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
